@@ -1,0 +1,24 @@
+﻿Build started 07.12.2020 1:30:54.
+     1>Project "C:\Users\V-TUNE\Desktop\group10_Verbicki\THIRD_VbI4_PRAKTIKA_2\THIRD_VbI4_PRAKTIKA_2\THIRD_VbI4_PRAKTIKA_2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Third_form2.cpp
+         Third_form2.cpp
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(79): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(80): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(111): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(102): warning C4101: 'i1' : unreferenced local variable
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(102): warning C4101: 'j2' : unreferenced local variable
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(102): warning C4101: 'j1' : unreferenced local variable
+     1>c:\users\v-tune\desktop\group10_verbicki\third_vbi4_praktika_2\third_vbi4_praktika_2\Third_form2.h(102): warning C4101: 'i2' : unreferenced local variable
+     1>Third_form2.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\V-TUNE\Desktop\group10_Verbicki\THIRD_VbI4_PRAKTIKA_2\Debug\THIRD_VbI4_PRAKTIKA_2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\V-TUNE\Desktop\group10_Verbicki\THIRD_VbI4_PRAKTIKA_2\Debug\THIRD_VbI4_PRAKTIKA_2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Third_form2.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         THIRD_VbI4_PRAKTIKA_2.vcxproj -> C:\Users\V-TUNE\Desktop\group10_Verbicki\THIRD_VbI4_PRAKTIKA_2\Debug\THIRD_VbI4_PRAKTIKA_2.exe
+     1>Done Building Project "C:\Users\V-TUNE\Desktop\group10_Verbicki\THIRD_VbI4_PRAKTIKA_2\THIRD_VbI4_PRAKTIKA_2\THIRD_VbI4_PRAKTIKA_2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.24
